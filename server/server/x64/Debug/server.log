@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\Study\communication software development\server\server\源.cpp(119,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Study\communication software development\server\server\源.cpp(145,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Study\communication software development\server\server\源.cpp(197,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  server.vcxproj -> E:\Study\communication software development\server\x64\Debug\server.exe
